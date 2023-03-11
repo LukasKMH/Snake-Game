@@ -1,2 +1,4 @@
-# Snake Game
+# Snake Game 🐍
+
+Jogo "Snake" desenvolvido em Python.
  
